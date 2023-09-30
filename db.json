@@ -1,0 +1,16 @@
+{
+  "users":[
+    {"id": 1, "username": "Pepe Elromano" "email": "pepe@mail.com" "image": "https://i.ibb.co/ZH7356D/cody.jpg"},
+    {"id": 2, "username": "Cuco Elromano" "email": "cuco@mail.com" "image": "https://i.ibb.co/ZH7356D/cody.jpg"},
+    {"id": 3, "username": "Paco Elromano" "email": "paco@mail.com" "image": "https://i.ibb.co/ZH7356D/cody.jpg"}
+  ],
+  "posts": [
+    { "id": 1, "title": "quien era pp?", "body": "Era alguien..." },
+    { "id": 2, "title": "por qué sucede?", "body": "Porque lo digo y punto..." },
+    { "id": 3, "title": "Post 3", "body": "Se acabó la imaginación..." }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+}
